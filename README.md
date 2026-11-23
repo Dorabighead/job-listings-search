@@ -84,4 +84,4 @@ Windows 下也可以按 [快速启动指南](QUICK_START.md) 使用仓库自带�
 
 ## 许可证
 
-MIT License
+本项目基于 [MIT License](LICENSE) 开源，详见根目录 [LICENSE](LICENSE) 文件。
